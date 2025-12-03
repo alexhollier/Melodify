@@ -1,4 +1,4 @@
-# Melodify (or iBeat) : Team 17
+# Melodify : Team 17
 # Members
 Project Manager: Cash Cooper (Rcoop31)\
 Communications Lead: Micah Broussard (MicahBroussard)\
